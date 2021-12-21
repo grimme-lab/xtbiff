@@ -15,17 +15,17 @@ To extract the binaries, use the following command.
 tar -xf xtbiff.tar.xz
 ```
 
-After downloading and extracting the file, it is directly usable.
+After extracting the file, the `xtbiff` program is directly usable.
 
-If the `xtb-IFF` should be used with the QCG algorithm implemented in [`CREST`](https://github.com/grimme-lab/crest), make sure to source it correctly by adding it to the *PATH* variable. This is the case when the following command displays the path of `xtb-IFF`. 
+If it should be used with the QCG algorithm implemented in [`CREST`](https://github.com/grimme-lab/crest), make sure to source it correctly by adding it to the *PATH* variable. This was successful when the following command displays the path of `xtb-IFF`. 
 
 ```bash
 which xtbiff
 ```
 
-## Usage
+## Use as a Stand-Alone Program
 
-For using the `xtb-IFF` as a stand-alone program, a list of commands is displayed by typing `xtbiff`. In general, two LMO files have to be previously generated with `xtb` by providing the `--lmo` flag. These are then used as input.
+For using the `xtbiff` as a stand-alone program, two LMO files have to be previously generated with the [`xtb`](https://github.com/grimme-lab/xtb) program. This can be done by providing the `--lmo` flag when exectuing `xtb`. A list of further options is displayed by executing the program. This can be done without any input.
 
 
 ## Citations

@@ -1,6 +1,6 @@
 # xtbiff
 
-[![Latest Version](https://img.shields.io/github/v/release/grimme-lab/crest)](https://github.com/grimme-lab/xtbiff/releases/tag/latest)
+[![Latest Version](https://img.shields.io/badge/release-v1.1-blue)](https://github.com/grimme-lab/xtbiff/releases/latest)
 [![DOI](https://img.shields.io/badge/DOI-10.1063%2F1.4991798-blue)](https://doi.org/10.1063/1.4991798)
 
 This is the official repository of the `xtb-IFF` program developed by the Grimme group in Bonn.

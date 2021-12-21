@@ -8,7 +8,7 @@ This is the official repository of the `xtb-IFF` program developed by the Grimme
 
 ## Installation
 
-Statically linked binaries can be found at the [latest release page](https://github.com/grimme-lab/xtbiff/releases/tag/latest).
+Statically linked binaries can be found at the [latest release page](https://github.com/grimme-lab/xtbiff/releases/latest).
 To extract the binaries, use the following command.
 
 ```bash

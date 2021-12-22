@@ -25,7 +25,7 @@ which xtbiff
 
 ## Use as a Stand-Alone Program
 
-For using the `xtbiff` as a stand-alone program, two LMO files have to be previously generated with the [`xtb`](https://github.com/grimme-lab/xtb) program. This can be done by providing the `--lmo` flag when executing `xtb`. A list of further options is displayed by executing the program, which can be done without any input.
+For using the `xtbiff` as a stand-alone program, two LMO files have to be previously generated with the [`xtb`](https://github.com/grimme-lab/xtb) program. This can be done by providing the `--lmo` flag when executing `xtb`. A list of further options will be displayed when the program is executed, which can be done without any input.
 
 
 ## Citations

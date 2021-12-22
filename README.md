@@ -17,7 +17,7 @@ tar -xf xtbiff.tar.xz
 
 After extracting the file, the `xtbiff` program is directly usable.
 
-If it should be used with the QCG algorithm implemented in [`CREST`](https://github.com/grimme-lab/crest), make sure to source it correctly by adding it to the *PATH* variable. This was successful when the following command displays the path of `xtb-IFF`. 
+If it should be used with the QCG algorithm implemented in [`CREST`](https://github.com/grimme-lab/crest), make sure to source it correctly by adding it to the *PATH* variable. This was successful when the following command displays the path of `xtbiff` program. 
 
 ```bash
 which xtbiff
@@ -25,7 +25,7 @@ which xtbiff
 
 ## Use as a Stand-Alone Program
 
-For using the `xtbiff` as a stand-alone program, two LMO files have to be previously generated with the [`xtb`](https://github.com/grimme-lab/xtb) program. This can be done by providing the `--lmo` flag when exectuing `xtb`. A list of further options is displayed by executing the program. This can be done without any input.
+For using the `xtbiff` as a stand-alone program, two LMO files have to be previously generated with the [`xtb`](https://github.com/grimme-lab/xtb) program. This can be done by providing the `--lmo` flag when executing `xtb`. A list of further options is displayed by executing the program, which can be done without any input.
 
 
 ## Citations
